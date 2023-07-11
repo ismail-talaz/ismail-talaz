@@ -1,6 +1,6 @@
 # 💫 About Me:
-📚 I'm currently studying at Middle East Technical University
-
+📚 I'm a computer engineering student at Middle East Technical University
+🎴 I'm currently learning competitive programming and machine learning
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismail-talaz) 
