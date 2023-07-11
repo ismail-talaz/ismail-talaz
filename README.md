@@ -1,5 +1,6 @@
 # 💫 About Me:
 📚 I'm a computer engineering student at Middle East Technical University
+
 🎴 I'm currently learning competitive programming and machine learning
 
 ## 🌐 Socials:
