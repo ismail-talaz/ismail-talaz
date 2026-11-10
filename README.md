@@ -1,16 +1,27 @@
-<h1 align="center">Hi 👋, I'm Ismail Talaz</h1>
-<h3 align="center">A computer engineering student at Middle East Technical University</h3>
+## Hi, I'm İsmail Talaz 👋
 
-- 🌱 I’m currently learning **machine learning and competitive programming**
+MSc Computer Science student at **ETH Zürich**. BSc Computer Engineering, **METU** (4.00/4.00, valedictorian).
 
-- 📫 How to reach me **ismail.talaz@metu.edu.tr**
+I work on **multimodal learning and trustworthy AI**: representation analysis and interpretability of multimodal models, robust evaluation of foundation models, and state-space models.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ismail-talaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail-talaz" height="30" width="40" /></a>
-</p>
+🌐 [Website](https://ismail-talaz.github.io) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=K3JTqXEAAAAJ) · 💼 [LinkedIn](https://www.linkedin.com/in/ismail-talaz)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 📄 Publications
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismail-talaz&" alt="ismail-talaz" /></p>
+- **ms-Mamba: Multi-scale Mamba for Time-Series Forecasting**. Y. M. Karadag, **I. Talaz**, I. G. Dino, S. Kalkan. *Neurocomputing*, 2026. [paper](https://doi.org/10.1016/j.neucom.2026.133226) · [arXiv](https://arxiv.org/abs/2504.07654)
+- **SC²-GVAE: Learning Sparse Brain Graphs for Representation of Alzheimer's Disease with Supervised Capacity-Controlled Variational Autoencoders**. C. Ozturk\*, **I. Talaz**\*, E. D. Demircioglu\*, H. Mogultay Ozcan, F. T. Yarman Vural. *UBMK 2026*. (\*equal contribution)
+- **Transfer Learning and Parameter-Efficient Fine-Tuning for Heating Energy Consumption Prediction Using Urban Building Energy Models**. I. Canli Akyol, Y. M. Karadag, S. Ucar, **I. Talaz**, F. E. Gursoy, I. G. Dino, S. Kalkan. *Advanced Engineering Informatics*, 2025. [paper](https://doi.org/10.1016/j.aei.2025.103576) · [code](https://github.com/metu-energy/transfer-learning)
+
+### 🔁 Paper reproductions
+
+Papers without public code that I re-implemented from their descriptions, with results compared against the originals:
+
+| Paper | What the reproduction shows |
+|---|---|
+| [On the Zero-shot Adversarial Robustness of Vision-Language Models (AOM)](https://github.com/ismail-talaz/aom-paper) | CLIP and AOM under PGD-10 and AutoAttack on 5 datasets; documents where results do and do not match |
+| [A Sober Look at the Robustness of CLIPs to Spurious Features](https://github.com/ismail-talaz/clip-spurious-features-reproduction) (NeurIPS 2024) | 30 CLIP and ImageNet models on CounterAnimal; drops match the paper to within 0.2 pp for most models |
+| [A New Benchmark and Model for Challenging Image Manipulation Detection](https://github.com/ismail-talaz/cimd-image-manipulation-detection) (AAAI 2024) | Two-branch RGB + DCT-frequency network implemented from scratch |
+
+### 🛠️ Tools
+
+Python · PyTorch · Hugging Face · CUDA · Slurm · Docker · Weights & Biases · C/C++
